@@ -8467,4 +8467,4 @@ Didac Vilarnau
 - [Irfan Ansari](https://github.com/IRFANSARI) **First**
 - [Guilhermne Fernandes do bem](https://github.com/GuilhermeFer29) **Hello Brasil**
 - [Ângelo de Oliveira Camargo](https://github.com/anglobox)
-**Hello from Brazil**
+**Hello from Brazil!**
